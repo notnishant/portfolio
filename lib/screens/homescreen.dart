@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
         children: [
           Container(
             child: Text(
-              "About",
+              "ancdegffgfgjggnerksddsdsdgn",
               style: TextStyle(fontSize: 15),
             ),
           ),
